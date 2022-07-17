@@ -18,8 +18,8 @@ Here are some ideas to get you started
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 📫 How to reach me: @Twitter - https://twitter.com/Afrah_Yb
 <br>
-
-<h2> Languages and Tools</h2>
+<br>
+<h2 align="center"> Languages and Tools</h2>
 
 <img alt="" src=""/>
 <img align ="left" alt="Node.JS" src="http://img.shields.io/badge/node.js-%23438530.svg?style=for-the-badge&logoColor=white"/>
@@ -37,7 +37,5 @@ Here are some ideas to get you started
 
 <footer>
 <img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=AfrahYb&show_icons=true&theme=radical"/>
-
-<img align ="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahYb&layout=compact"/>
-
+<img align ="right" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahYb&layout=compact"/>
 </footer>
