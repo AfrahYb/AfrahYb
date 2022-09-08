@@ -1,6 +1,8 @@
-
+<head>
+  <img align="center" width ="1000" height="300" src="https://github.com/AfrahYb/AfrahYb/blob/main/banner.png?raw=true">
+  </head>
 <body>
-<h1 align="center"> Hi there 👋, I'm Afrah.</h1>
+<!-- <h1 align="center"> Hi there 👋, I'm Afrah.</h1> -->
 
 <img align="right" alt="coding" width="450" src="https://www.bounteous.com/sites/default/files/insights/2022-04/previews/the-google-analytics-syllabus_web.png">
 <img alt="" src=""/>
@@ -36,6 +38,6 @@ Here are some ideas to get you started
 </body>
 
 <footer>
-<img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=AfrahYb&show_icons=true&theme=radical"/>
-<img align ="right" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahYb&layout=compact"/>
+<!-- <img align ="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=AfrahYb&show_icons=true&theme=radical"/> -->
+<img align ="center" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfrahYb&layout=compact"/>
 </footer>
