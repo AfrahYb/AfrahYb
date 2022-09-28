@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on Web dev Projects.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 📫 How to reach me **afrahmyb@gmail.com**
+
   
   
 <h3 align="left">Connect with me:</h3>
